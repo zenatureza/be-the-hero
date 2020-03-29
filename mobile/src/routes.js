@@ -3,8 +3,6 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-//teste
-
 const AppStack = createStackNavigator();
 
 import Incidents from './pages/Incidents';
